@@ -18,13 +18,9 @@ The Hair Stylist Salon Chatbot is a conversational bot designed to assist custom
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hair-stylist-salon-chatbot.git
+   git clone git@github.com:mracy/Chatbot-using-Google-colab-.git
 
-cd hair-stylist-salon-chatbot
-
-pip install -r requirements.txt
-
-python chatbot.py
+cd Chatbot-using-Google-colab
 
 
 How to Use
@@ -48,6 +44,5 @@ Synopsis
 The Hair Stylist Salon Chatbot is an AI-powered assistant that provides a seamless conversational experience for users seeking salon-related services. It handles appointment booking, provides information about services and promotions, and validates user inputs such as email and phone number. The bot utilizes advanced NLP models to generate meaningful responses and intelligently process date-related queries, ensuring a smooth interaction for customers looking to book their next salon visit.
 
 
-Make sure to replace `https://github.com/your-username/hair-stylist-salon-chatbot.git` with your actual GitHub repository URL.
+git@github.com:mracy/Chatbot-using-Google-colab-.git
 
-Let me know if you need any more adjustments!
