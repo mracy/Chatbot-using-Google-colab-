@@ -20,7 +20,7 @@ The Hair Stylist Salon Chatbot is a conversational bot designed to assist custom
    ```bash
    git clone git@github.com:mracy/Chatbot-using-Google-colab-.git
 
-cd Chatbot-using-Google-colab
+cd Chatbot-using-Google-colab-
 
 
 How to Use
